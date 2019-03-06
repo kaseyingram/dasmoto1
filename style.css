@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.content h2 {
+	font-family: amatic-sc;
+	font-style: normal;
+	font-weight: 700;
+	font-size: xx-large;
+	text-align: center;
+}

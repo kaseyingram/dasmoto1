@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.content h3 {
+	font-family: annie-use-your-telescope;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	font-size: x-large;
+	background-color: #5EA996;
+	color: #FFFFFF;
+}
